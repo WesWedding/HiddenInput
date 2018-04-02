@@ -1,11 +1,8 @@
 {
   "name": "hidden-input",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Adds a detached input field for use in iOS webviews; keyboards don't work unless there's an active input!  Even one that isn't visible.",
   "main": "./src/index.js",
-  "dependencies": {
-    "phaser": "^3.3.0"
-  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.0",
