@@ -1,0 +1,28 @@
+{
+  "name": "hidden-input",
+  "version": "1.0.0",
+  "description": "Adds a detached input field for use in iOS webviews; keyboards don't work unless there's an active input!  Even one that isn't visible.",
+  "main": "./src/index.js",
+  "dependencies": {
+    "phaser": "^3.3.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "webpack": "^4.4.1",
+    "webpack-cli": "^2.0.13"
+  },
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/stickyco/hidden-input.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/stickyco/hidden-input#readme"
+}
