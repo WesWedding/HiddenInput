@@ -1,7 +1,7 @@
 
 let input = null;
 
-class HiddenInput {
+export default class HiddenInput {
   constructor () {
     input = document.createElement('input');
     input.setAttribute('disabled', true);

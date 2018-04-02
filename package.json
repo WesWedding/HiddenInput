@@ -1,6 +1,6 @@
 {
   "name": "hidden-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a detached input field for use in iOS webviews; keyboards don't work unless there's an active input!  Even one that isn't visible.",
   "main": "./src/index.js",
   "dependencies": {
